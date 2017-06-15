@@ -1,0 +1,23 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KELVINMUNENE/Github-User-Lookup.git"
+  },
+  "author": "KELVIN MUNENE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KELVINMUNENE/Github-User-Lookup/issues"
+  },
+  "homepage": "https://github.com/KELVINMUNENE/Github-User-Lookup#readme",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1"
+  }
+}
